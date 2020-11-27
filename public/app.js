@@ -1,5 +1,5 @@
 var data = {
-    title: 'AWS Learning Path - Beta',
+    title: 'AWS Learning Path - Green version',
     selected: null,
     question: 'Which path will you take?',
     choices: [
