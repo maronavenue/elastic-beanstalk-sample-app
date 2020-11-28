@@ -1,5 +1,5 @@
 var data = {
-    title: 'AWS Learning Path - Blue version',
+    title: 'AWS Learning Path - Docker version ' + String.fromCodePoint(0x1F42C),
     selected: null,
     question: 'Which path will you take?',
     choices: [
