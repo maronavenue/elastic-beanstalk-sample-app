@@ -1,0 +1,2 @@
+# Tell Docker to ignore this directory when building images and whatnot, everything we need is in package.json
+node_modules
