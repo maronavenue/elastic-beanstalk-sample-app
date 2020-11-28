@@ -1,0 +1,10 @@
+{
+    "AWSEBDockerrunVersion": "2",
+    "Image": {
+        "Name": "maronavenue/beanstalk-sample-app"
+    },
+    "Ports": [{
+        "ContainerPort": 8080,
+        "HostPort": 8080
+    }]
+}
